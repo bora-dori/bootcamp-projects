@@ -1,4 +1,4 @@
-# Bootcamp Projects
+# 💻 Bootcamp Projects
 
 A collection of **data analysis and visualization projects**  
 completed throughout my data analytics bootcamp.
